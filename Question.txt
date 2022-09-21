@@ -1,0 +1,4 @@
+Using Python's hashlib library, find a meaningful English word whose ASCII encoding has the following SHA-256 hex digest:
+
+69d8c7575198a63bc8d97306e80c26e04015a9afdb92a699adaaac0b51570de7
+
